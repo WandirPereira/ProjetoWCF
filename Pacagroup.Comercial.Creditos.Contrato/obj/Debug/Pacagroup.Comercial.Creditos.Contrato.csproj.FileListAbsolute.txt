@@ -1,0 +1,9 @@
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.csproj.CoreCompileInputs.cache
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.csproj.AssemblyReference.cache
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Commercial.Creditos.Dominio.dll
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Commercial.Creditos.Dominio.pdb
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.csproj.CopyComplete
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb

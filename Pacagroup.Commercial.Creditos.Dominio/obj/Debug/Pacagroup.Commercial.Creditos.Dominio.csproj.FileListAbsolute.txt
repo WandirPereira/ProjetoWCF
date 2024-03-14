@@ -1,0 +1,6 @@
+F:\projetos\SOAP\Pacagroup.Commercial.Creditos.Dominio\bin\Debug\Pacagroup.Commercial.Creditos.Dominio.dll
+F:\projetos\SOAP\Pacagroup.Commercial.Creditos.Dominio\bin\Debug\Pacagroup.Commercial.Creditos.Dominio.pdb
+F:\projetos\SOAP\Pacagroup.Commercial.Creditos.Dominio\obj\Debug\Pacagroup.Commercial.Creditos.Dominio.csproj.AssemblyReference.cache
+F:\projetos\SOAP\Pacagroup.Commercial.Creditos.Dominio\obj\Debug\Pacagroup.Commercial.Creditos.Dominio.csproj.CoreCompileInputs.cache
+F:\projetos\SOAP\Pacagroup.Commercial.Creditos.Dominio\obj\Debug\Pacagroup.Commercial.Creditos.Dominio.dll
+F:\projetos\SOAP\Pacagroup.Commercial.Creditos.Dominio\obj\Debug\Pacagroup.Commercial.Creditos.Dominio.pdb

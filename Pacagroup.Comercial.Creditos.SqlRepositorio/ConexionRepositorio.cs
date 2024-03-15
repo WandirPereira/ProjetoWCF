@@ -11,8 +11,7 @@ namespace Pacagroup.Comercial.Creditos.SqlRepositorio
     {
         public static string ObtenerCadenaConexion()
         {
-            //return ConfigurationManager.ConnectionStrings["CreditosDB"].ToString();
-            return null;
+            return ConfigurationManager.ConnectionStrings["CreditosDB"].ToString();
         }
     }
 }

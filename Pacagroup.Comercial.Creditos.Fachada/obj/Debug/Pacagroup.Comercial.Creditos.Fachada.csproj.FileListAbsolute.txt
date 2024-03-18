@@ -1,4 +1,3 @@
-F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.csproj.CoreCompileInputs.cache
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.dll
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.pdb
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Dapper.dll
@@ -10,6 +9,7 @@ F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comerc
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Commercial.Creditos.Dominio.pdb
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Dapper.xml
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.csproj.AssemblyReference.cache
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.csproj.CoreCompileInputs.cache
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.csproj.CopyComplete
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.dll
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.pdb

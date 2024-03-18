@@ -1,5 +1,3 @@
-F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\obj\Debug\Pacagroup.Comercial.Creditos.WcfService.csproj.AssemblyReference.cache
-F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\obj\Debug\Pacagroup.Comercial.Creditos.WcfService.csproj.CoreCompileInputs.cache
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\bin\Pacagroup.Comercial.Creditos.WcfService.dll.config
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\bin\Pacagroup.Comercial.Creditos.WcfService.dll
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\bin\Pacagroup.Comercial.Creditos.WcfService.pdb
@@ -17,6 +15,8 @@ F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\bin\Pacagroup.Commercia
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\bin\Pacagroup.Comercial.Creditos.Fachada.pdb
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\bin\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\bin\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\obj\Debug\Pacagroup.Comercial.Creditos.WcfService.csproj.AssemblyReference.cache
+F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\obj\Debug\Pacagroup.Comercial.Creditos.WcfService.csproj.CoreCompileInputs.cache
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\obj\Debug\Pacagroup.Comercial.Creditos.WcfService.csproj.CopyComplete
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\obj\Debug\Pacagroup.Comercial.Creditos.WcfService.dll
 F:\projetos\SOAP\Pacagroup.Comercial.Creditos.WcfService\obj\Debug\Pacagroup.Comercial.Creditos.WcfService.pdb

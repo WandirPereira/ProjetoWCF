@@ -11,7 +11,7 @@ namespace Pacagroup.Comercial.Creditos.Contrato
     {
         [OperationContract]
         //[WebGet (RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json, UriTemplate = "/ObtenerCliente/{numeroDocumento}", BodyStyle = WebMessageBodyStyle.Bare)]
-        //[FaultContract(typeof(Error))]
+        [FaultContract(typeof(Error))]
         Cliente ObtenerCliente(string numeroDocumento);
 
 

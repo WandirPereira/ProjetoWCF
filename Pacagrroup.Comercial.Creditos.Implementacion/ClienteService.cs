@@ -32,12 +32,12 @@ namespace Pacagroup.Comercial.Creditos.Implementacion
             }
         }
 
-        //public IEnumerable<Cliente> BuscarCliente(Cliente cliente)
-        //{
-        //    using (var instancia = new ClienteFachada())
-        //    {
-        //        return instancia.BuscarCliente(cliente);
-        //    }
-        //}
+        public IEnumerable<Cliente> BuscarCliente(Cliente cliente)
+        {
+            using (var instancia = new ClienteFachada())
+            {
+                return instancia.BuscarCliente(cliente);
+            }
+        }
     }
 }
